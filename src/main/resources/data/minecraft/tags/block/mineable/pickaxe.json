@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "projectbrass:copper_block",
+    "projectbrass:copper_ore"
+  ]
+}

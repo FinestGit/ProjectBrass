@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "expereince": 0.25,
+  "group": "copper",
+  "ingredient": {
+    "item": "projectbrass:raw_copper"
+  },
+  "result": {
+    "count": 1,
+    "id": "projectbrass:copper_bar"
+  }
+}
